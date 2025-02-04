@@ -18,6 +18,6 @@
 - Feel free to report any issues or suggest further optimizations.
 
 ## 📜 Credits
-- **Original Plugin: [Stack Size Controller] https://umod.org/plugins/stack-size-controller
-- **Original Developer: AnExiledDev
-- **Optimized by: Sery
+- Original Plugin: [Stack Size Controller] https://umod.org/plugins/stack-size-controller
+- Original Developer: AnExiledDev
+- Optimized by: Sery
